@@ -41,3 +41,6 @@ Output:
 | 3           |
 +-------------+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
+
+
+*Copyright ©️ 2024 LeetCode*

@@ -37,3 +37,6 @@ Output:
 Explanation: 
 Tweet 1 has length = 14. It is a valid tweet.
 Tweet 2 has length = 32. It is an invalid tweet.
+
+
+*Copyright ©️ 2024 LeetCode*

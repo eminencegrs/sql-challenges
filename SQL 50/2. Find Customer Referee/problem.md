@@ -42,3 +42,6 @@ Output:
 | Bill |
 | Zack |
 +------+
+
+
+*Copyright ©️ 2024 LeetCode*
