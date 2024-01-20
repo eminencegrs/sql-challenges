@@ -51,3 +51,6 @@ Output:
 | Brad | null  |
 | John | null  |
 | Dan  | 500   |
+
+
+*Copyright ©️ 2024 LeetCode*
