@@ -1,6 +1,6 @@
 # 183. Customers Who Never Order [Easy]
 
-Table: Customers
+Table: `Customers`
 
 +-------------+---------+
 | Column Name | Type    |
@@ -9,11 +9,11 @@ Table: Customers
 | name        | varchar |
 +-------------+---------+
 
-id is the primary key (column with unique values) for this table.
-Each row of this table indicates the ID and name of a customer.
+`id` is the primary key (column with unique values) for this table.
+Each row of this table indicates the `ID` and `name` of a customer.
  
 
-Table: Orders
+Table: `Orders`
 
 +-------------+------+
 | Column Name | Type |
@@ -22,9 +22,9 @@ Table: Orders
 | customerId  | int  |
 +-------------+------+
 
-id is the primary key (column with unique values) for this table.
-customerId is a foreign key (reference columns) of the ID from the Customers table.
-Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
+`id` is the primary key (column with unique values) for this table.
+`customerId` is a foreign key (reference columns) of the `ID` from the `Customers` table.
+Each row of this table indicates the `ID` of an order and the `ID` of the customer who ordered it.
  
 
 Write a solution to find all customers who never order anything.
@@ -33,7 +33,7 @@ Return the result table in any order.
 
 The result format is in the following example.
 
- 
+
 
 Example 1:
 
